@@ -1,0 +1,65 @@
+toggleMenu:
+    other: Menu
+
+darkMode:
+    other: Dark Mode
+
+list:
+    page:
+        one: "{{ .Count }} Pagina"
+        other: "{{ .Count }} Pagine"
+
+    section:
+        other: Categoria
+
+    subsection:
+        one: Sotto categoria
+        other: Sotto categorie
+
+article:
+    back:
+        other: Indietro
+
+    tableOfContents:
+        other: Paragrafi
+
+    relatedContents:
+        other: Contenuti correlati
+
+    lastUpdatedOn:
+        other: Ultimo caricamento
+
+notFound:
+    title:
+        other: Non trovato
+    subtitle:
+        other: Questa pagina non esiste.
+
+widget:
+    archives:
+        title:
+            other: Archivio
+
+        more:
+            other: Leggi tutto
+
+    tagCloud:
+        title:
+            other: Tags
+
+search:
+    title:
+        other: Cerca
+
+    placeholder:
+        other: Scrivi qualcosa...
+
+    resultTitle:
+        other: "#PAGES_COUNT Pagine (#TIME_SECONDS seconds)"
+
+footer:
+    builtWith:
+        other: Powered by {{ .Generator }}
+
+    designedBy:
+        other: Tema {{ .Theme }} designed by {{ .DesignedBy }}
