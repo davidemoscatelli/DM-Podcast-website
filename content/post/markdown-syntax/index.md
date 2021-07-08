@@ -1,150 +1,54 @@
 +++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+author = "Davide Moscatelli"
+title = "Puntata 0, Si parte!"
+date = "2021-07-08"
+description = "Buongiorno Amici, come va la giornata e la vita?"
 tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
+    "podcast",
+    "passioni",
+    "prima puntata",
+    "interessi",
+
 ]
 categories = [
     "podcast",
 
 ]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
-image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
+series = ["Puntata podcast"]
+aliases = ["logo-dm-podcast"]
+image = "puntata-o.jpg"
 +++
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+Buongiorno Amici, come va la giornata e la vita?
+Sono Davide ho 26 anni e devo dire che a me la vita per ora va abbastanza bene...
+
+C'è soltanto un piccolo problemino, ho veramente bisogno di esprimere i miei pensieri e idee.
 <!--more-->
 
-## Headings
+## Perché DM PODCAST
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+Vi è mai capitato di far fatica a parlare con gli altri? Magari con i propri genitori, amici, ragazze, ragazzi, mogli, mariti... Sembra strano ma  a volte, per me, è difficile discutere di alcuni aspetti o interessi con persone che conosco da una vita.
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+Forse uno dei problemi principali è stato crescere in un paesino. Classica mentalità chiusa, pregiudizi e giudizi... zero libertà di espressione. Ancora oggi quando torno nel mio piccolo inferno circondato da mura, mi capita di parlare di argomenti "scottanti" come film sui supereroi e videogiochi e  noto immediatamente lo sguardo della persona davanti a me impazzire a destra e sinistra, sperando che nessuno intorno a lui stia ascoltando.
 
-## Paragraph
+La prima domanda che mi pongo è perché?
+Perché la tua prima reazione è: "nono non ho più tempo per i videogiochi, no no no!"
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+e quando ti rendi conto di poter parlare con me di quello che vuoi dici: "ma sai che ho giocato a questo? molto bello, aaaa ed ho giocato anche a questo"
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+" ma non avevi detto di non avere tempo?"
 
-## Blockquotes
+"ehm, si vabeh ma giusto 20 minuti la sera"
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+Perché non riesci ad essere te stesso? Non è più semplice parlare di ciò che ti piace?
 
-#### Blockquote without attribution
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
+Ecco perché è nato il DM Podcast.
+Dico ciò che voglio, parlo delle mie idee e passioni e se qualcuno li fuori mi stesse ascoltando per sbaglio, lo invito per parlarmi delle sue
 
-#### Blockquote with attribution
+Amici, esistono potenzialmente infiniti interessi e infinite passioni...
+Magari scopriamo che ci piace tagliarci le unghie dei piedi con due lische di pesce.
 
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
+Dai che ci divertiamo... alla prossima.
 
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-#### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
-
-## Code Blocks
-
-#### Code block with backticks
-
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-
-#### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-{{< highlight html >}}
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-* List item
-* Another item
-* And another item
-
-#### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+Con affetto DM
