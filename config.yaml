@@ -5,14 +5,14 @@ paginate: 5
 title: DM Podcast
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: dmpodcast2021
 
 # GA Tracking ID
 googleAnalytics:
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl
-DefaultContentLanguage: en
+DefaultContentLanguage: it
 
 permalinks:
     post: /p/:slug/
