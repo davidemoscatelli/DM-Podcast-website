@@ -44,10 +44,10 @@ Perché non riesci ad essere te stesso? Non è più semplice parlare di ciò che
 
 
 Ecco perché è nato il DM Podcast.
-Dico ciò che voglio, parlo delle mie idee e passioni e se qualcuno li fuori mi stesse ascoltando per sbaglio, lo invito per parlarmi delle sue
+Dico ciò che voglio, parlo delle mie idee e passioni e se ci fosse qualcuno li fuori ad ascoltarmi per sbaglio, lo invito a parlarmi delle sue
 
-Amici, esistono potenzialmente infiniti interessi e infinite passioni...
-Magari scopriamo che ci piace tagliarci le unghie dei piedi con due lische di pesce.
+Amici, esistono potenzialmente infiniti interessi e infinite passioni... 
+Magari scopriamo che ci piace tagliare le unghie dei piedi con due lische di pesce.
 
 Dai che ci divertiamo... alla prossima.
 
