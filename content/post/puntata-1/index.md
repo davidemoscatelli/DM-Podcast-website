@@ -49,7 +49,7 @@ Spendendo questa cifra avrai accesso ad esperienze come esplorazioni spaziali, i
 
 Durante questo periodo di pandemia, l'Oculus è stato fondamentale. Mi ha permesso di incontrare i miei amici e di conoscerne di nuovi senza dover impazzire chiuso in casa. Anzi forse ho visitato più posti rispetto allo standard degli anni precedenti.
 
-##La qualità grafica non è tutto!
+## La qualità grafica non è tutto!
 
 Un altro aspetto che ho dovuto affrontare con persone che parlano senza aver provato la tecnologica, riguarda la qualità delle texture e dei poligoni. “Eh ho visto su YouTube e la grafica è veramente imbarazzante”.
 
@@ -66,7 +66,7 @@ Considera ho visto persone con le gambe tremolanti per via dell'altezza, oppure 
 Però, quando si tolgono il casco, la frase rimane sempre la stessa: "oh figata, ma quanto costa?".
 
 
-###Facebook ecco la strategia perfetta per vendere il tuo visore... metti sparsi per l'italia degli stand che ti permetto di provare varie esperienza e appena se lo tolgono fagli trovare davanti alla faccia un bel pacco pronto per essere acquistato. FACEBOOK ASSUMIMI!
+### Facebook ecco la strategia perfetta per vendere il tuo visore... metti sparsi per l'italia degli stand che ti permetto di provare varie esperienza e appena se lo tolgono fagli trovare davanti alla faccia un bel pacco pronto per essere acquistato. FACEBOOK ASSUMIMI!
 
 ![Supporto per controller Oculus](supporto-ping-pong-oculus.jpg)
 
@@ -78,13 +78,13 @@ Inoltre mi sono stampato in 3D anche il supporto per il controller a forma di ra
 
 Ho conosciuto persone da tutto il mondo ed imparato tecniche da asiatici veramente devastanti e qualche battuta da un francese decisamente socievole verso di me… un italiano…
 
-##Il vero problema della realtà virtuale
+## Il vero problema della realtà virtuale
 
 sai qual è il vero problema del visore per la realtà virtuale? Che bisogna provarlo per capire cosa significa e che emozioni riesce a trasmettere.
 
 Quindi o sei un fottuto jedi che ha le palle di combattere  la minaccia fantasma dell'insicurezza e ti compri un casco virtuale ad occhi chiusi o hai un amico come me che si diverte a veder camminare su una tavola le persone. Non esistono altri modi.
 
-##Il mio consiglio
+## Il mio consiglio
 compratelo su Amazon, lascia stare per ora PS5 o Xbox.  Ci fai due partite e se non ti convince rimandatelo indietro (impossibile che succeda). Considera che i giochi che acquisterai sullo store oculus se provati per un tempo limitato possono essere tranquillamente rimborsabili.
 
 Se hai bisogno di consigli o vuole semplicemente approfondire l'argomento, visita dmpodcast.it, lascia un commento sotto all'articolo o scrivimi in direct su Instagram.
