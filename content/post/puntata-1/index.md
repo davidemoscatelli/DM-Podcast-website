@@ -1,7 +1,7 @@
 +++
 author = "Davide Moscatelli"
 title = "Puntata 1, Lo straordinario mondo della Realtà Virtuale"
-date = "2021-07-21"
+date = "2021-07-30"
 description = "Sostanzialmente è una realtà simualta che ha lo scopo di..."
 tags = [
     "podcast",

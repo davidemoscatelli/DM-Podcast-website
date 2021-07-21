@@ -1,7 +1,7 @@
 +++
 author = "Davide Moscatelli"
 title = "Puntata 0, Si parte!"
-date = "2021-07-28"
+date = "2021-07-21"
 description = "Buongiorno Amici, come va la giornata e la vita?"
 tags = [
     "podcast",
@@ -24,6 +24,8 @@ Sono Davide ho 26 anni e devo dire che a me la vita per ora va abbastanza bene..
 
 C'è soltanto un piccolo problemino, ho veramente bisogno di esprimere i miei pensieri e idee.
 <!--more-->
+
+{{< hp5 "https://anchor.fm/davide-moscatelli/embed/episodes/Puntata-zero--Perch-DM-Podcast-e14q503" >}}
 
 ## Perché DM PODCAST
 
@@ -52,5 +54,3 @@ Magari scopriamo che ci piace tagliare le unghie dei piedi con due lische di pes
 Dai che ci divertiamo... alla prossima.
 
 Con affetto DM
-
-{{< hp5 "https://anchor.fm/davide-moscatelli/embed" >}}
