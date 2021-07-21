@@ -66,7 +66,7 @@ Considera ho visto persone con le gambe tremolanti per via dell'altezza, oppure 
 Però, quando si tolgono il casco, la frase rimane sempre la stessa: "oh figata, ma quanto costa?".
 
 
-### Facebook ecco la strategia perfetta per vendere il tuo visore... metti sparsi per l'italia degli stand che ti permetto di provare varie esperienza e appena se lo tolgono fagli trovare davanti alla faccia un bel pacco pronto per essere acquistato. FACEBOOK ASSUMIMI!
+**Facebook ecco la strategia perfetta per vendere il tuo visore... metti sparsi per l'italia degli stand che ti permetto di provare varie esperienze e appena se lo tolgono fagli trovare davanti alla faccia un bel pacco pronto per essere acquistato. FACEBOOK ASSUMIMI!**
 
 ![Supporto per controller Oculus](supporto-ping-pong-oculus.jpg)
 
