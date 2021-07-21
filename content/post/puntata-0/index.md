@@ -28,7 +28,7 @@ C'è soltanto un piccolo problemino, ho veramente bisogno di esprimere i miei pe
 ## Perché DM PODCAST
 
 
-{{< hp5 "https://anchor.fm/davide-moscatelli/embed/episodes/Puntata-zero--Perch-DM-Podcast-e14q503" >}}
+{{< hp5 "https://anchor.fm/dm-podcast-2021/embed/episodes/Puntata-zero--Perch-DM-Podcast-e14q503" >}}
 
 Vi è mai capitato di far fatica a parlare con gli altri? Magari con i propri genitori, amici, ragazze, ragazzi, mogli, mariti... Sembra strano ma  a volte, per me, è difficile discutere di alcuni aspetti o interessi con persone che conosco da una vita.
 
@@ -56,4 +56,4 @@ Dai che ci divertiamo... alla prossima.
 
 Con affetto DM
 
-{{< hp5 "https://anchor.fm/davide-moscatelli/embed/episodes/Puntata-zero--Perch-DM-Podcast-e14q503" >}}
+{{< hp5 "https://anchor.fm/dm-podcast-2021/embed/episodes/Puntata-zero--Perch-DM-Podcast-e14q503" >}}
