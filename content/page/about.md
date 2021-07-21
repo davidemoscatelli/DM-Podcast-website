@@ -1,11 +1,11 @@
 ---
 title: Chi sono
-description: Hugo, the world's fastest framework for building websites
+description: Ciao, sono Davide
 date: '2019-02-28'
 aliases:
   - chi-sono
   - contatti
-  
+
 license: CC BY-NC-ND
 lastmod: '2020-10-09'
 menu:
