@@ -1,7 +1,7 @@
 ---
 title: Chi sono
 description: Ciao, sono Davide
-date: '2019-02-28'
+date: '2021-07-21'
 aliases:
   - chi-sono
   - contatti
@@ -14,20 +14,9 @@ menu:
         pre: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Sono Davide ho 26 anni e devo dire che a me la vita per ora va abbastanza bene...
+C'è soltanto un piccolo problemino, ho veramente bisogno di esprimere i miei pensieri e idee.
 
-Hugo makes use of a variety of open source projects including:
+In questo podcast dico ciò che voglio, parlo delle mie idee e passioni e se ci fosse qualcuno la fuori ad ascoltarmi per sbaglio, lo invito a parlarmi delle sue.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Instagram: https://www.instagram.com/davide_moscatelli/
