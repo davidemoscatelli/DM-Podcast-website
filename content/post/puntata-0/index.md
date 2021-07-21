@@ -27,8 +27,6 @@ C'è soltanto un piccolo problemino, ho veramente bisogno di esprimere i miei pe
 
 ## Perché DM PODCAST
 
-{{< hp5 "https://anchor.fm/davide-moscatelli/embed/episodes/Puntata-zero--Perch-DM-Podcast-e14q503" >}}
-
 Vi è mai capitato di far fatica a parlare con gli altri? Magari con i propri genitori, amici, ragazze, ragazzi, mogli, mariti... Sembra strano ma  a volte, per me, è difficile discutere di alcuni aspetti o interessi con persone che conosco da una vita.
 
 Forse uno dei problemi principali è stato crescere in un paesino. Classica mentalità chiusa, pregiudizi e giudizi... zero libertà di espressione. Ancora oggi quando torno nel mio piccolo inferno circondato da mura, mi capita di parlare di argomenti "scottanti" come film sui supereroi e videogiochi e  noto immediatamente lo sguardo della persona davanti a me impazzire a destra e sinistra, sperando che nessuno intorno a lui stia ascoltando.
@@ -54,3 +52,5 @@ Magari scopriamo che ci piace tagliare le unghie dei piedi con due lische di pes
 Dai che ci divertiamo... alla prossima.
 
 Con affetto DM
+
+{{< hp5 "https://anchor.fm/davide-moscatelli/embed/episodes/Puntata-zero--Perch-DM-Podcast-e14q503" >}}
