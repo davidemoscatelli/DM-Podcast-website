@@ -1,7 +1,7 @@
 +++
 author = "Davide Moscatelli"
 title = "Puntata 0, Si parte!"
-date = "2021-07-13"
+date = "2021-07-28"
 description = "Buongiorno Amici, come va la giornata e la vita?"
 tags = [
     "podcast",

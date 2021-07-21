@@ -1,7 +1,7 @@
 +++
 author = "Davide Moscatelli"
 title = "Puntata 1, Lo straordinario mondo della Realtà Virtuale"
-date = "2021-07-21"
+date = "2021-07-28"
 description = "Sostanzionalmente è una realtà simualta che ha lo scopo di..."
 tags = [
     "podcast",
@@ -72,7 +72,7 @@ oltretutto mi sono stampato con la mia stampante 3D anche il supporto per il con
 
  Ho conosciuto persone da tutto il mondo ed imparato tecniche da asiatici veramente devastanti e qualche battuta da un francese decisamente socievole verso di me… un italiano…
 
-## La VR è alla portata di tutti
+## Il vero problema della realtà virtuale
 
 sai qual è il vero problema del visore per la realtà virtuale? Che bisogna provarlo per capire cosa significa e che emozioni riesce a trasmettere.
 
