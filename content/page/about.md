@@ -6,8 +6,7 @@ aliases:
   - chi-sono
   - contatti
 
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+
 menu:
     main:
         weight: -90
@@ -19,7 +18,10 @@ C'è soltanto un piccolo problemino, ho veramente bisogno di esprimere i miei pe
 
 In questo podcast dico ciò che voglio, parlo delle mie idee e passioni e se ci fosse qualcuno la fuori ad ascoltarmi per sbaglio, lo invito a parlarmi delle sue.
 
+## SOCIAL
 Instagram: https://www.instagram.com/davide_moscatelli/
+
+#PODCAST
 
 Anchor: https://anchor.fm/dm-podcast-2021
 Spotify: https://open.spotify.com/show/2IXsAl5xe8U5gl48fypURM
