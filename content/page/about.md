@@ -21,7 +21,7 @@ In questo podcast dico ciò che voglio, parlo delle mie idee e passioni e se ci 
 ## SOCIAL
 Instagram: https://www.instagram.com/davide_moscatelli/
 
-#PODCAST
+## PODCAST
 
 Anchor: https://anchor.fm/dm-podcast-2021
 
