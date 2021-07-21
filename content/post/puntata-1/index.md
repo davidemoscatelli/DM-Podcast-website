@@ -8,7 +8,7 @@ tags = [
     "passioni",
     "prima puntata",
     "interessi",
-
+    "sassi",
 ]
 categories = [
     "podcast",
