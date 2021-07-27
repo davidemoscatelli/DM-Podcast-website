@@ -5,7 +5,7 @@ paginate: 5
 title: DM PODCAST
 
 # Change it to your Disqus shortname before using
-disqusShortname: dmpodcast2021
+disqusShortname:
 
 # GA Tracking ID
 googleAnalytics: G-E4G873BDQQ
